@@ -1,11 +1,8 @@
 # Ecuaciones Diferenciales
 ### Taller de GitHub
-#### Este es lenguaje MarkDown
-####Notas del dia 17/septiembre/2021
-- paso 1
-- descargar el lenguaje el editor para MarkDown del siguiente sitio
-- [Liga de Haroopad](http://pad.haroopress.com/user.html)
-- paso 2
-- generar un archivo con MarkDown
-- paso 3
-- subirlo a su repositorio
+#### resumen de la materia
+
+- DEFINICION
+-Es una ecuacion matematica que relaciona una funcion con sus derivadas.
+-Las ecuacones diferenciales pueden dividirse en varios tipos. Aparte de describir las propiedades de la ecuacion en si, las clases de las ecuaciones diferenciales pueden ayudar a buscar la eleccion dela aproximacion a una solucion.
+-La enorme importancia de las ecuaciones diferencales en las matematicas, y especialmente en sus aplicaciones, se debe principalmente al hecho de que la investigacion de muchos problemas de ciencia y tecnologia puede reducirse a la solucion de tales ecuaciones.
